@@ -1,5 +1,5 @@
 '''
-Author = Flaps#9562
+Author = Mystery3
 Year = 2021
 Function = Returns a grid of pixels to help with making circles and ellipses in block-based games or in pixel art.
 '''
